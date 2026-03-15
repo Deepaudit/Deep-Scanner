@@ -26,7 +26,7 @@ Localizado em `tools/defense/`, este script monitora o kernel do sistema de arqu
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/Deepaudit/Deep-Scanner.git](https://github.com/Deepaudit/Deep-Scanner.git)
+   git clone https://github.com/Deepaudit/Deep-Scanner.git
    cd Deep-Scanner
 Instale as dependências:
 
